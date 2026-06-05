@@ -1,0 +1,125 @@
+# Ushasi Bhunia
+
+Bhubaneswar, Odisha
+📧 [ushasi01712@gmail.com](mailto:ushasi01712@gmail.com) | 📱 8695770801
+🔗 LinkedIn: linkedin.com/in/miss-b-2788753a3
+🔗 GitHub: github.com/Ushasi-Bhunia
+
+---
+
+# Professional Summary
+
+Computer Science undergraduate specializing in Artificial Intelligence, Machine Learning, NLP, and Generative AI with hands-on experience in chatbot development, AI-powered automation systems, and data analytics projects. Skilled in Python, Machine Learning, Deep Learning fundamentals, NLP pipelines, Prompt Engineering, and intelligent document processing systems. Familiar with PyTorch, scikit-learn, cloud computing concepts, and AI model deployment workflows. Passionate about building scalable AI-driven solutions and solving real-world business problems using emerging technologies.
+
+---
+
+# Education
+
+### Kalinga Institute of Industrial Technology (KIIT)
+
+**B.Tech in Computer Science and Engineering**
+2023 – 2027 | Bhubaneswar, Odisha
+CGPA: 8.8 / 10.0
+
+### Mahishadal Raj High School (WBBSE)
+
+Higher Secondary — Class XII
+2023 | West Bengal
+Percentage: 84.4%
+
+### Mahishadal Gayeswari Girls’ High School (WBBSE)
+
+Secondary — Class X
+2021 | West Bengal
+Percentage: 91.57%
+
+---
+
+Technical Skills
+
+• Programming Languages: Python, Java, C, JavaScript
+• AI / Machine Learning: Machine Learning, Deep Learning Fundamentals, NLP, Generative AI, LLM Basics, Prompt Engineering, Conversational AI
+• Frameworks & Libraries: PyTorch, scikit-learn, Pandas, NumPy, NLTK, spaCy, Streamlit
+• Cloud & Deployment: AWS Fundamentals, Model Deployment Basics
+• Data Analytics & Visualization: Power BI, DAX, Data Analysis
+• Tools & Platforms: Git, GitHub, Google Colab, Jupyter Notebook
+• Core Subjects: DBMS, Operating Systems, Computer Networks, Data Structures & Algorithms, Artificial Intelligence
+
+
+### Soft Skills
+
+Problem-Solving, Analytical Thinking, Communication, Team Collaboration, Adaptability
+
+---
+
+# Projects
+
+## AI-Based Resume Screening System
+
+**Tech Stack:** Python, scikit-learn, NLP, Streamlit, Pandas
+
+• Implemented NLP preprocessing, text vectorization, and intelligent document analysis workflows for automated resume evaluation.
+• Applied machine learning and AI-driven similarity analysis techniques for candidate ranking and decision support.
+• Designed scalable AI automation workflows inspired by real-world recruitment and underwriting systems.
+
+
+---
+
+## Chatbot Development using Python
+
+**Tech Stack:** Python, NLP, Jupyter Notebook
+
+• Developed an AI-powered chatbot capable of handling user queries using NLP-based conversational workflows.
+• Implemented intent recognition and context-aware response generation techniques to improve interaction quality.
+• Applied text preprocessing and conversational AI concepts for enhanced query understanding and response accuracy.
+• Strengthened practical understanding of NLP pipelines, chatbot architecture, and AI-driven automation systems.
+
+GitHub: github.com/Ushasi-Bhunia/ushasi-python-chatbot
+
+---
+
+## TCP Congestion Control Analysis using NS2 Simulator
+
+**Tech Stack:** C++, OTcl, NS2, Linux/Ubuntu, Xgraph, NAM
+
+• Developed and benchmarked TCP congestion control algorithms including Reno, CUBIC, CERL, and BBR using NS2.
+• Evaluated performance metrics such as throughput, delay, packet loss, and congestion window size across multiple network topologies.
+• Generated comparative visualizations using Xgraph and Network Animator (NAM) for performance analysis.
+
+GitHub: github.com/Ushasi-Bhunia/ushasi-TCP_congestion_control_NS2
+
+---
+
+## COVID-19 Data Analysis Dashboard
+
+**Tech Stack:** Power BI, DAX, Data Analytics
+
+• Built an interactive Power BI dashboard to visualize global COVID-19 statistics, vaccination trends, and recovery metrics.
+• Performed data cleaning, transformation, and visualization to generate actionable insights from large datasets.
+• Implemented KPI indicators, dynamic charts, and geographical visualizations for effective analytical reporting.
+
+GitHub: github.com/Ushasi-Bhunia/covid_powerbi_dashboard
+
+---
+
+# Certifications
+
+• Excel Automation using ChatGPT
+• Business for Good: Fundamentals of Corporate Responsibility
+• Corporate Governance
+• Ethical Decision Making for Success in the Tech Industry
+
+---
+
+# Languages
+
+• English — Proficient
+• Hindi — Proficient
+• Bengali — Native
+• French — Beginner
+
+---
+
+# Interests
+
+Artificial Intelligence • Machine Learning • NLP • Painting • Photography

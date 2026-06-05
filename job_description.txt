@@ -1,0 +1,36 @@
+About the Role
+
+We are seeking a highly motivated and detail-oriented Machine Learning Engineer Intern to join our AI and Data Science team. The ideal candidate should have a strong passion for Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and problem-solving. You will work on developing intelligent systems capable of analyzing resumes, extracting skills, and automating candidate-job matching processes using modern ML and NLP techniques.
+
+As part of the team, you will collaborate with developers and data analysts to build scalable AI-powered solutions that improve recruitment efficiency and automate decision-making workflows. This role offers an exciting opportunity to gain hands-on experience with real-world machine learning pipelines, data preprocessing, feature engineering, and model deployment.
+
+Key Responsibilities:
+• Develop and optimize NLP pipelines for resume parsing and text analysis.
+• Implement machine learning algorithms for candidate-job matching and resume ranking.
+• Perform data preprocessing, feature extraction, and text vectorization using TF-IDF and NLP techniques.
+• Build intelligent recommendation systems based on skill similarity and semantic matching.
+• Work with structured and unstructured datasets to improve model accuracy and performance.
+• Design and develop interactive dashboards and user interfaces for real-time resume analysis.
+• Collaborate with cross-functional teams to deploy scalable AI solutions.
+• Conduct testing, debugging, and performance optimization of ML models.
+
+Required Skills:
+• Strong knowledge of Python programming.
+• Familiarity with Machine Learning concepts and NLP techniques.
+• Experience with libraries such as scikit-learn, Pandas, NumPy, NLTK, or spaCy.
+• Understanding of text preprocessing, vectorization, and similarity algorithms.
+• Knowledge of Git and GitHub for version control.
+• Strong analytical thinking and problem-solving abilities.
+• Ability to learn quickly and work independently in a team environment.
+
+Preferred Qualifications:
+• Experience with Streamlit or Flask for web application development.
+• Basic understanding of deep learning frameworks such as PyTorch or TensorFlow.
+• Knowledge of cloud platforms or model deployment concepts.
+• Prior experience working on AI, chatbot, or data analytics projects.
+
+Benefits:
+• Hands-on experience with real-world AI applications.
+• Opportunity to work on innovative ML and NLP projects.
+• Exposure to modern AI technologies and deployment workflows.
+• Collaborative and learning-focused environment.
